@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#, ASP.net, Python
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kalvachevavaleria@gmail.com
+- 📫 How to reach me vkalvacheva@mail.com
 
 <!---
 valeriakalvacheva/valeriakalvacheva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
